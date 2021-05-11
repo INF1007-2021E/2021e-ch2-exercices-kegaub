@@ -6,13 +6,13 @@ FAIL: test_upper_case_names (__main__.TestExercice)
 Traceback (most recent call last):
   File "test_exercice.py", line 18, in test_upper_case_names
     self.assertListEqual(
-AssertionError: Lists differ: [5, 5, 5, 5, 5, 5, 5, 5, 5] != ['NORD', 'ALCOOL', 'NERVEUX', 'EXAMEN', 'S[49 chars]BET']
+AssertionError: Lists differ: [25, 25, 25, 25, 25, 25, 25, 25, 25] != ['NORD', 'ALCOOL', 'NERVEUX', 'EXAMEN', 'S[49 chars]BET']
 
 First differing element 0:
-5
+25
 'NORD'
 
-- [5, 5, 5, 5, 5, 5, 5, 5, 5]
+- [25, 25, 25, 25, 25, 25, 25, 25, 25]
 + ['NORD',
 +  'ALCOOL',
 +  'NERVEUX',
