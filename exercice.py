@@ -2,8 +2,9 @@
 # -*- coding: utf-8 -*-
 def majuscule(mot):
     # TODO completer la fonction ici
-    x = 5
-    return x
+    y = 12
+    z = 13
+    return y + z
 
 
 if __name__ == '__main__':
